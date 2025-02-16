@@ -44,5 +44,6 @@
 
 Here's my streak:
 
-![My Streak](https://GMJZ.pythonanywhere.com/streak?total=830&current=0&longest=45)
+![Streak Image](https://1508j.netlify.app/.netlify/functions/streak_image?text=Awesome&streak_length=10&color=red)
+
 
