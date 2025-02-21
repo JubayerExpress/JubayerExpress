@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayerexpress&show_icons=true&locale=en" alt="jubayerexpress" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerexpress&" alt="jubayerexpress" /></p>
+
 
 
 ## Snake 🐍 Eating 🍴 My GitHub contributions :octocat:
@@ -34,16 +34,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
  
-## 🚀 Contributions  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JubayerExpress&theme=dracula&range=15" alt="Activity Graph (Last 15 Days)" />
-</p>
- 
 
-##3# My Project
-
-Here's my streak:
-
-![Streak Image](https://1508j.netlify.app/.netlify/functions/streak_image?text=Awesome&streak_length=10&color=red)
 
 
